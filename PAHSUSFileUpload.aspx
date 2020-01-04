@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="PAHSUSFileUpload.aspx.cs" Inherits="CS" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="PAHSUSFileUpload.aspx.cs" Inherits="PAHSUSFileUpload.aspx" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -39,12 +39,6 @@
      <div class="container">
               <header>
                 <h1>Punyashlok Ahilyadevi Holkar <span>Solapur University</span></h1>
-                  <%--<nav class="codrops-demos">
-					<span>Click <strong>"Join us"</strong> to see the form switch</span>
-					<a href="index.html" class="current-demo">Demo 1</a>
-					<a href="index2.html">Demo 2</a>
-					<a href="index3.html">Demo 3</a>
-				</nav>--%>
             </header>
          <div id="container_demo" >
                     <!-- hidden anchor to stop jump http://www.css3create.com/Astuce-Empecher-le-scroll-avec-l-utilisation-de-target#wrap4  -->
